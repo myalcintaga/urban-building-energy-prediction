@@ -16,7 +16,7 @@ The dataset used in this project is the **Urban building energy performance pred
 4.  **Evaluation:** Assessing performance using Accuracy, F1-Score, Confusion Matrix, and Cohen’s Kappa.
 
 ## Technologies Used
-* Python 3.x
+* Python 3.10
 * Pandas & NumPy
 * TensorFlow & Keras
 * Scikit-learn
